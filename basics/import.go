@@ -5,7 +5,7 @@ import (
 	"net/http"
 )
 
-func main() {
+func basic1() {
 	fmt.Println("Hello, Go Standard Library!")
 
 	resp, err := http.Get("https://jsonplaceholder.typicode.com/posts/1")
