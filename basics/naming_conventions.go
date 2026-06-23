@@ -2,7 +2,7 @@ package basics
 
 import "fmt"
 
-func basic() {
+func basic3() {
 	// PascalCase: Used for types, functions, and constants - also Structs, interfaces, enums and functions should be named using PascalCase.
 	// e.g. CalculateArea, UserProfile, HTTPStatusOK
 	// Structs, interfaces, enums and functions should be named using PascalCase.

@@ -5,7 +5,7 @@ import "fmt"
 var middleName = "Cane" // This is a package-level variable
 // ':=' cannot be used outside of a function, so we use '=' instead.
 
-func main() {
+func main3() {
 	// var age int
 	// var name string = "John"
 	// var name1 = "Jane"
